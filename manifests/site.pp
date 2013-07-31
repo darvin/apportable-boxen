@@ -88,4 +88,18 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
+
+
+
+  include python
+  include android::sdk
+  include android::ndk
+  include skype 
+  include dropbox
+  include chrome::dev
+
+
 }
+
+
+

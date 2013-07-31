@@ -33,6 +33,14 @@ github "ruby",       "6.2.0"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "onepassword", "1.0.2"
+github "android", "1.0.0"
+github "skype", "1.0.3"
+github "chrome", "1.1.1"
+github "dropbox", "1.1.1"
+github "steam", "1.0.1"
+github "python", "1.2.1"
+github "java", "1.1.2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
