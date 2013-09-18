@@ -92,10 +92,7 @@ node default {
 
 
   include python
-  include android::sdk
-  include android::ndk
   include skype 
-  include dropbox
   include chrome::dev
 
 
